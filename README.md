@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Januda Vidanagamage</h1>
-<h3 align="center">Undergraduate</h3>
+<h3 align="center">Undergraduate at IIT <br> https://www.iit.ac.lk/ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevenx101&label=Profile%20views&color=0e75b6&style=flat" alt="stevenx101" /> </p>
 
