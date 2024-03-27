@@ -1,5 +1,5 @@
 ![Screenshot 2024-03-25 190529](https://github.com/STEVENx101/STEVENx101/assets/138391873/63c42ec9-b8ff-419c-bf20-4f47b0eb6944)
-<h3 align="center">Undergraduate at IIT <br> https://www.iit.ac.lk/ </h3>
+
 
 
 
